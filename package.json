@@ -1,0 +1,18 @@
+{
+  "name": "vite-ts-p5-template",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview",
+    "tsc": "tsc"
+  },
+  "devDependencies": {
+    "@types/p5": "^1.4.2",
+    "typescript": "^4.7.4",
+    "vite": "^2.9.13"
+  },
+  "dependencies": {
+    "p5": "^1.4.1"
+  }
+}
